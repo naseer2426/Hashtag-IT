@@ -7,7 +7,7 @@ from imageAnalysis import img_hashtags
 
 app = Flask(__name__)
 
-TOKEN="EAAHKDwDMgiYBAFMxQfahneFJRS8XeYdxsoZALDU8Rs3ZBZC2YW1wPZC6NcVvBpjF97sSWeFj14mlHBnaK6v2CWppECUO20N61Jrivh7RiZA2ZCNrv7PvbjyUWwLMK9C17MkKBxZCcsb4HuayPZC9NRNoUWkBu9PWzqEBnPZCznJ0uawZDZD"
+TOKEN=#Messenger bot api token
 
 
 bot=Bot(TOKEN)
