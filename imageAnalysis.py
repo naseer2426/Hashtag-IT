@@ -8,8 +8,8 @@ from io import BytesIO
 
 from google.cloud import vision_v1p3beta1 as vision
 from google.cloud.vision import types
-#mjhoi
-os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = #JSON File of the google vision api key (Obviously wouldn't put it on a public repo, I'm not dumb lol)
+
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = #JSON File of the google vision api key (Obviously wouldn't put it on a public repo)
 
 def img_hashtags(url):
     client = vision.ImageAnnotatorClient()
