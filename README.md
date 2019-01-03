@@ -4,7 +4,7 @@ Instructions for trying out the bots
 
 Messenger bots provide only restricted access so in order try out the bot you need to login with the following account:
 
-username: hashtester64@gmail.com
+username: hashtester64@gmail.com \n
 password: Hashtester@64
 
 After logging in, go to messages and send your images in the 'WriteOn' chat.
